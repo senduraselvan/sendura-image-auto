@@ -1,0 +1,1 @@
+# sendura-image-auto
